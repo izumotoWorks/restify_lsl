@@ -1,0 +1,14 @@
+{
+  "name": "restify_lsl",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/izumotoWorks/restify_lsl.git",
+  "author": "izumotoWorks <izumoto.works@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./src/main.js"
+  } ,
+  "dependencies": {
+    "restify": "^8.5.1"
+  }
+}
